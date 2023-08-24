@@ -1,10 +1,10 @@
-## Project Portfolio
+# Project Portfolio
 
 ---
 
-### University Projects 
+## University Projects 
 
-[Mt. Rainier Snowfall Analysis](https://github.com/arielharris/mt_rainier/tree/main)
+### [Mt. Rainier Snowfall Analysis](https://github.com/arielharris/mt_rainier/tree/main)
 Hyperspectral image analysis of snowfall on Mt. Rainier, using classification techniques to determine snowfall boundries and time series analysis to predict future snowfall.
 <img src="images/Picture1.jpg?raw=true"/>
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/sklearn-white?logo=scikit-learn)](#)
