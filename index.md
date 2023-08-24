@@ -1,10 +1,10 @@
-## Portfolio
+## Project Portfolio
 
 ---
 
-### Category Name 1 
+### University Projects 
 
-[Project 1 Title](/sample_page)
+[Mt. Rainier Snowfall Analysis](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
