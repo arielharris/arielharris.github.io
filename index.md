@@ -4,7 +4,7 @@
 
 ### University Projects 
 
-[Mt. Rainier Snowfall Analysis](/sample_page)
+[Mt. Rainier Snowfall Analysis](https://github.com/arielharris/mt_rainier/tree/main)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
