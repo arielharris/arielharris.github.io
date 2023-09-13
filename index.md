@@ -17,7 +17,7 @@ Hyperspectral image analysis of snowfall on Mt. Rainier, using classification te
 PySpark SQL database of MLB Allstar Players and their associated team, with example query for the Colorado Rockies. All code was written and deployed using Databricks.
 <img src="images/Picture2.jpg?raw=true"/>
 
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white)](#) [![](https://img.shields.io/badge/PySpark-white?)](#)
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Databricks-white?logo=Databricks)](#) [![](https://img.shields.io/badge/PySpark-white?)](#)
 
 
 ---
