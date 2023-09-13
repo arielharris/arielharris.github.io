@@ -12,7 +12,7 @@ Hyperspectral image analysis of snowfall on Mt. Rainier, using classification te
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/sklearn-white?logo=scikit-learn)](#)
 
 ---
-### [Allstar MLB Team  Database](https://github.com/arielharris/MLBAllStarDB/tree/main)
+### [Allstar MLB Team Database](https://github.com/arielharris/MLBAllStarDB/tree/main)
 
 PySpark SQL database of MLB Allstar Players and their associated team, with example query for the Colorado Rockies. All code was written and deployed using Databricks.
 <img src="images/Picture2.jpg?raw=true"/>
@@ -21,7 +21,12 @@ PySpark SQL database of MLB Allstar Players and their associated team, with exam
 
 
 ---
-[Project 3 Title](http://example.com/)
+### [Choropleth Mapping of United States Laws](https://github.com/arielharris/choropleth/tree/main)
+
+A collection of choropleth mappings used to illustrate the year of several laws passing in the United States.
+<img src="images/Picture3.jpg?raw=true"/>
+
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/Folium-white?logo=Folium)](#) [![](https://img.shields.io/badge/JSON-white?logo=JSON)](#)
 
 
 ---
