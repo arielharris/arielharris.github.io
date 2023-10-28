@@ -18,7 +18,7 @@ This is a basic python project done in jupyter notebook, done to show an underst
 ---
 ### [Mt. Rainier Snowfall Analysis](https://github.com/arielharris/mt_rainier/tree/main)
 
-Hyperspectral image analysis of snowfall on Mt. Rainier, using classification techniques to determine snowfall boundries and time series analysis to predict future snowfall.
+The purpose of this project is to utilize hyperspectral imaging and classification analysis to predict the boundary of snowfall on Mt. Rainier. Understanding the snowfall is useful for many reasons, if snowfall is shown to be heavy, then the following months could see heavy flooding from the snow melt runoff. Alternatively, light snowfall could result in drought throughout Eastern Washington because there isn’t enough melt from the mountain. And generally, understanding snow boundaries on the mountain helps us to understand the state of our current climate and understand patterns in the snowfall. To approach this problem, the USGS Earth Explorer and SNAP tools are used to collect and analyze the satellite images. Pixel data is extracted from these images and used to model and classify using algorithms KNN and SVM. Finally, time series analysis is applied and future radiance levels are predicted and run through the classification models previously made.
 <img src="images/Picture1.jpg?raw=true"/>
 
 [![](https://img.shields.io/badge/Python-black?logo=Python&logoColor=white)](#) [![](https://img.shields.io/badge/Jupyter-black?logo=Jupyter&logoColor=white)](#) [![](https://img.shields.io/badge/sklearn-black?logo=scikit-learn&logoColor=white)](#)
