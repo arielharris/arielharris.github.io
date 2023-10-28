@@ -28,8 +28,10 @@ Hyperspectral image analysis of snowfall on Mt. Rainier, using classification te
 ### Category Name 2
 
 - [Allstar MLB Team Database](https://github.com/arielharris/MLBAllStarDB/tree/main)
+
   [![](https://img.shields.io/badge/Python-black?logo=Python&logoColor=white)](#) [![](https://img.shields.io/badge/Databricks-black?&logoColor=white)](#) [![](https://img.shields.io/badge/PySpark-black?&logoColor=white)](#)
 - [Choropleth Mapping of United States Laws](https://github.com/arielharris/choropleth/tree/main)
+
   [![](https://img.shields.io/badge/Python-black?logo=Python&logoColor=white)](#) [![](https://img.shields.io/badge/Jupyter-black?logo=Jupyter&logoColor=white)](#) [![](https://img.shields.io/badge/Folium-black?logo=Folium&logoColor=white)](#) [![](https://img.shields.io/badge/JSON-black?logo=JSON&logoColor=white)](#)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
