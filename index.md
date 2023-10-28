@@ -1,9 +1,21 @@
-# Project Portfolio
+# Ariel Harris Project Portfolio
 
 ---
 
-## University Projects 
+## Top Projects 
 
+### 
+
+---
+### [Market Basket Analysis](https://github.com/arielharris/MBA)
+
+This is a basic python project done in jupyter notebook, done to show an understanding of market basket analysis. It uses [this data set from Kaggle](https://www.kaggle.com/datasets/aslanahmedov/market-basket-analysis), but is also available in the master branch. It goes through cleaning and inspecting the data, creating the pivot table for the basket, and finally generating the frequent itemsets and rules. Both apiori and FP growth algorithms are implemented using the mlxtend library. After mining for the frequent itemset rules, several discoveries are found about the data to provide examples of what might be provided to a customer who has requested an MBA.
+<img src="images/Picture3.jpg?raw=true"/>
+
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/mlxtend-white?logo=mlxtend)](#)[![](https://img.shields.io/badge/pandas-white?logo=pandas)](#)
+
+
+---
 ### [Mt. Rainier Snowfall Analysis](https://github.com/arielharris/mt_rainier/tree/main)
 
 Hyperspectral image analysis of snowfall on Mt. Rainier, using classification techniques to determine snowfall boundries and time series analysis to predict future snowfall.
@@ -12,29 +24,11 @@ Hyperspectral image analysis of snowfall on Mt. Rainier, using classification te
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/sklearn-white?logo=scikit-learn)](#)
 
 ---
-### [Allstar MLB Team Database](https://github.com/arielharris/MLBAllStarDB/tree/main)
-
-PySpark SQL database of MLB Allstar Players and their associated team, with example query for the Colorado Rockies. All code was written and deployed using Databricks.
-<img src="images/Picture2.jpg?raw=true"/>
-
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Databricks-white?logo=Databricks)](#) [![](https://img.shields.io/badge/PySpark-white?)](#)
-
-
----
-### [Choropleth Mapping of United States Laws](https://github.com/arielharris/choropleth/tree/main)
-
-A collection of choropleth mappings used to illustrate the year of several laws passing in the United States.
-<img src="images/Picture3.jpg?raw=true"/>
-
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/Folium-white?logo=Folium)](#) [![](https://img.shields.io/badge/JSON-white?logo=JSON)](#)
-
-
----
 
 ### Category Name 2
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
+- [Allstar MLB Team Database](https://github.com/arielharris/MLBAllStarDB/tree/main)
+- [Choropleth Mapping of United States Laws](https://github.com/arielharris/choropleth/tree/main)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
