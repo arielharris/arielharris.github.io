@@ -1,4 +1,4 @@
-# Ariel Harris Project Portfolio
+# Project Portfolio
 
 ---
 
