@@ -4,7 +4,13 @@
 
 ## Top Projects 
 
-### 
+### Restaurant Recommender
+
+Under construction! This project is currently a work in progress, but will eventually become a recommender system using web ratings and reviews to suggest restaurants to users in the Seattle area. 
+
+Recent Updates: currently, working to master the basics of recommender systems by creating content and popularity based Netflix recommender. The next steps are to incorporate webscrapping and explor different text vectorizing methods.
+
+<img src="https://i.pngimg.me/thumb/f/720/m2H7i8H7A0G6H7i8.jpg"/>
 
 ---
 ### [Market Basket Analysis](https://github.com/arielharris/MBA)
