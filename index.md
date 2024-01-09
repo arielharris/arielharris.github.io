@@ -37,9 +37,6 @@ The purpose of this project is to utilize hyperspectral imaging and classificati
 - [Stellar Classification with Multi-Class Models](https://github.com/arielharris/star_classification) [![](https://img.shields.io/badge/Python-black?logo=Python&logoColor=white)](#) [![](https://img.shields.io/badge/sklearn-black?logo=sklearn&logoColor=white)](#)
 - [Allstar MLB Team Database](https://github.com/arielharris/MLBAllStarDB/tree/main) [![](https://img.shields.io/badge/Python-black?logo=Python&logoColor=white)](#) [![](https://img.shields.io/badge/Databricks-black?&logoColor=white)](#) [![](https://img.shields.io/badge/PySpark-black?&logoColor=white)](#)
 - [Choropleth Mapping of United States Laws](https://github.com/arielharris/choropleth/tree/main) [![](https://img.shields.io/badge/Python-black?logo=Python&logoColor=white)](#) [![](https://img.shields.io/badge/Folium-black?logo=Folium&logoColor=white)](#) [![](https://img.shields.io/badge/JSON-black?logo=JSON&logoColor=white)](#)
-<!-- - [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/) -->
 
 ---
 
