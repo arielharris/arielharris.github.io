@@ -1,8 +1,8 @@
 # Project Portfolio
 
 ---
+## Current Projects
 
-## Top Projects 
 
 ### [Restaurant Recommender](https://github.com/arielharris/recommender)
 
@@ -13,6 +13,8 @@ Recent Updates: currently, a basic recommender for movies based on genre and oth
 <img src="https://media.istockphoto.com/id/1225397217/vector/work-in-progress-status-bar.jpg?s=612x612&w=0&k=20&c=mRYGj_xv5omkVZNaBgG0GtFAEBg8i6MfNJj3tK9hN-c="/>
 
 ---
+## Top Projects 
+
 ### [Market Basket Analysis](https://github.com/arielharris/MBA)
 
 This is a basic python project done in jupyter notebook, done to show an understanding of market basket analysis. It uses [this data set from Kaggle](https://www.kaggle.com/datasets/aslanahmedov/market-basket-analysis), but is also available in the master branch. It goes through cleaning and inspecting the data, creating the pivot table for the basket, and finally generating the frequent itemsets and rules. Both apiori and FP growth algorithms are implemented using the mlxtend library. After mining for the frequent itemset rules, several discoveries are found about the data to provide examples of what might be provided to a customer who has requested an MBA.
