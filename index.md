@@ -8,7 +8,7 @@ The below projects are currently works in progress.
 ### [Restaurant Recommender](https://github.com/arielharris/recommender)
 Area: EDA, kNN, web scraping, UI
 
-In this project I am building a reommender system for Seattle area restaurants based on ratings from across the web, as well as incorporates a user's personal ratings and those of similar users. 
+In this project I am building a recommender system for Seattle area restaurants based on ratings from across the web, as well as incorporates a user's personal ratings and those of similar users. 
 
 The approach is to first build a general recommender to understand the concept with a known data source, then incorporate web scraping for that data to become more comfortable with scraping techniques. Next, apply what was built for the general recommender to scraped restaurant data and build user profiles. The final and most challenging step will be to create a user interface and deploy the project, something I am not practiced in, but exctied to learn!
 
